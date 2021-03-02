@@ -298,11 +298,6 @@
                 "Issue #2820218: Page manager does not respect existing route defaults for title callbacks": "https://www.drupal.org/files/issues/2018-03-21/2820218-50.patch",
                 "Issue #2858877: Allow for block visibility rules": "https://www.drupal.org/files/issues/page_manager-block_visibility_conditions-2858877-27-D8.patch"
             },
-            "drupal/panels": {
-                "Issue #2869412: Page title does not display on panels": "https://www.drupal.org/files/issues/2869412-2-page_title_does_not_show_in_panels.patch",
-                "Issue #2923286: Fatal error in Drupal\\panels\\Form\\PanelsAddBlockForm::buildForm() with PHP 7.2": "https://www.drupal.org/files/issues/2923286-13.patch",
-                "Issue #2938850: Add Block visibility conditions": "https://www.drupal.org/files/issues/panels-block_visibility_conditions_apply_after_issue_2869412_2-2938850-2.patch"
-            },
             "drupal/paragraphs": {
                 "Issue #2461695: Support translatable paragraph entity reference revision field": "https://www.drupal.org/files/issues/2019-11-16/2461695-273.patch",
                 "Issue #2911244: Field collections deriver and base migration": "https://www.drupal.org/files/issues/2019-10-11/2911244-80.paragraphs.Field-collections-deriver-and-base-migration.patch"
@@ -428,8 +423,8 @@
         "drupal/openfed_social": "1.1",
         "drupal/optional_end_date": "1.1",
         "drupal/override_node_options": "2.6",
-        "drupal/page_manager": "4.0-beta3",
-        "drupal/panels": "4.2",
+        "drupal/page_manager": "4.0-beta6",
+        "drupal/panels": "4.4",
         "drupal/paragraphs": "1.10",
         "drupal/paragraphs_asymmetric_translation_widgets": "1.0-beta2",
         "drupal/pathauto": "1.8",
